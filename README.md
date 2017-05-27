@@ -3,4 +3,4 @@
 This repository contains:
 
 - Basic Syntax problems - https://github.com/yani-valeva/Java/tree/master/BasicSyntax.
-Description of problems - https://softuni.bg/trainings/resources/officedocument/14914/lab-problem-descriptions-programming-fundamentals-extended-may-2017
+Description of problems - https://softuni.bg/trainings/resources/officedocument/14914/lab-problem-descriptions-programming-fundamentals-extended-may-2017, https://softuni.bg/trainings/resources/officedocument/15092/exercise-problem-descriptions-programming-fundamentals-extended-may-2017
