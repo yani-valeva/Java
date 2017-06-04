@@ -5,12 +5,12 @@ public class ExactProductOfRealNumbers {
         Scanner scanner = new Scanner(System.in);
 
         int numberCount = Integer.parseInt(scanner.nextLine());
-        double product = 1.0;
+        BigDecimal product = new BigDecimal(1);
 
         for (int i = 0; i < numberCount; i++)
         {
-            double currentNumber = Double.parseDouble(scanner.nextLine());
-            product *= currentNumber;
+            BigDecimal currentNumber = new BigDecimal(scanner.nextLine());
+            product = product.multiply(currentNumber);
         }
 
         System.out.println(product);
